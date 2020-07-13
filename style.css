@@ -1,0 +1,102 @@
+
+/*body*/
+body {
+    background: #121864;
+    color: white ; 
+    margin:0px 10px 0px 10px ;}
+/*Header*/
+Header{
+    color:white;
+    border-bottom:2px solid rgba(2555,40,25,.5) ;
+}
+header #wlcm {
+    font:20px arial;
+    font-weight: 500 ;
+    font-variant:small-caps;
+    margin-bottom: 20px ;
+}
+header #branding {
+    text-align:center;
+    color:steelblue;
+    font:20px cursive;
+    margin:20px 90px 20px 90px ;
+    border:0px;
+    border-radius:30px ;
+    background:#fff7f5;
+    padding:1px ;
+    
+}
+header #branding h1{
+    margin:10px;
+}
+header nav{
+    margin: auto;
+}
+header a{
+    font:16px Times;
+    text-decoration:none ;
+    color:white ;
+    font-variant:small-caps;
+    margin-top:50px ;
+}
+header li{
+    text-align:middle;
+    padding:0px 0px 0px 0px;
+    }
+header .current a{
+    color:#85ebff;
+}
+.highlight{
+    font:20px times ;
+    font-weight: 900;
+    font-variant:small-caps ;
+}
+body #home h1{
+    font-family: "serif";
+    text-align:center ;
+    font-variant: small-caps;}
+body #home p{
+    font-family: "times";
+    border:2px double white ;
+    padding: 8px ;}
+footer{
+    font: 10px monospace; 
+    padding:10px;
+    margin-top:20px;
+    color:#ffffff;
+    background-color:#e8491d;
+    text-align: center;
+}
+.follow{
+    color: white;
+    border:0px solid ;
+    background-color:#348ac1;
+    border-radius:40px ;
+    padding: 10px ;
+    text-decoration:none ;}
+.button{
+    margin:70px 30px 20px 50px;}
+body #article h1{
+    font-variant: small-caps;
+    font-family: "serif";
+    text-align:center ;
+    font-size: xx-large ;
+    }
+body #article li{
+				border:8px ridge white;
+				background-color: #3f86ac;
+				color: black;
+				padding:2px;
+				margin:10px 40px 40px 10px;
+				border-radius: 0px;
+				text-align: center;
+				}
+body #s h4{
+				color:#0e1a4f; 
+				font:20px arial;
+				text-transform:uppercase;
+				font-weight:700;}
+body #s p{
+				color:#0e1d35;
+				font: 14px Times;
+				font-weight: 500;}
